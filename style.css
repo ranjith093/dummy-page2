@@ -1,0 +1,21 @@
+/*p{
+	color:red;
+	font-size: 22px;
+}
+
+h1{
+	color:purple;
+}*/
+.myStyle {
+   color:green;
+   font-size: 20px;
+   font-weight: bold; 
+
+}
+
+#myHeading {
+   color:blue;
+   font-size: 36px;
+   font-weight: bolder; 
+
+}
